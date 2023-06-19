@@ -18,7 +18,9 @@ If you have any questions or would like to collaborate, please don’t hesitate 
 
 ## About My Advisor
 
-[BRUCE MAXWELL](https://cs.colby.edu/maxwell/) - Teaching professor and assistant director for computing programs at NEU Seattle
+[BRUCE MAXWELL](https://cs.colby.edu/maxwell/)
+
+Teaching professor and assistant director for computing programs at NEU Seattle
 
 Research Interests: Computer vision, Machine learning, Robotics, Data science 
 
