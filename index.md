@@ -18,8 +18,10 @@ If you have any questions or would like to collaborate, please don’t hesitate 
 
 ## About My Advisor
 
-[BRUCE MAXWELL](https://cs.colby.edu/maxwell/):
-Teaching professor, assistant director computing programs - seattle
+[BRUCE MAXWELL](https://cs.colby.edu/maxwell/)
+
+Teaching professor, assistant director computing programs - seattle 
+
 Research Interests: Computer vision, Machine learning, Robotics, Data science 
 
 ## About My Project
