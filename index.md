@@ -8,13 +8,14 @@ title: DREAM Project Site
 
 ## About Me
 
-Hello, Welcome to my site specifically for the DREAM project. I am Kexin Hao and preferred to be called as Heather. I am pursuing a master’s degree in computer science in the Align program at Northeastern University in Seattle and will graduate in May 2025. Prior to studying at NEU align, I was a VMD candidate at UPenn school of veterinary medicine and did researches mostly related to animals and chemicals with some technologies related to computer vision. However, due to own health and finances, I have to switch career. I started interested in the computer science field when my husband proposed to me with an animation created with Turtle in Python during the pandemic and designed my very first [personal site](https://codingheather.github.io/My-Site-/) from scratch before attending NEU.
+Hello and welcome to my website dedicated to the DREAM project. My name is Kexin Hao, but you can call me Heather. I am currently pursuing a master's degree in computer science in the Align program at Northeastern University in Seattle, with an expected graduation date in May 2025. Prior to enrolling in the NEU Align program, I completed my B.A. degree in chemistry at Franklin and Marshall College and was a candidate for a VMD degree at the UPenn School of Veterinary Medicine. During that time, my researches focused primarily on animals and chemicals, and I also used some technologies related to computer vision. However, due to personal health and financial reasons, I had to change career paths. It was during the pandemic that my interest in computer science was sparked when my husband proposed to me using an animation he created with Turtle in Python. Prior to joining NEU, I even designed my own personal website from scratch, which you can visit [here](https://codingheather.github.io/My-Site-/).
 
-After a year of training at NEU align, I am very excited to be selected and attend the Distributed REsearch Apprenticeships for Master’s (DREAM) apprenticeship program, and I am also very grateful for being matched to explore more about computer vision. DREAM program is designed for students like me, who do not have a bachelor’s degree in computer science, to participate in a research experience and to offer mentorship aiming to pursue higher education in computing. 
+After completing a year of training at NEU Align, I am thrilled to have been selected for the Distributed Research Apprenticeships for Master's (DREAM) program. The DREAM program is specifically designed to provide research experience and support to students like myself who do not hold a bachelor's degree in computer science, as we pursue higher education in computing. I am incredibly grateful for the opportunity to delve deeper into the field of computer vision through this program and to receive valuable mentorship. 
 
-Outside of school, I love playing tennis and accompanying my dogs and cats.
+Outside of my studies, I find joy in playing tennis and spending quality time with my beloved dogs and cats.
 
-If you have any questions or would like to collaborate, please don’t hesitate to reach out using the email link at the bottom of the page.
+If you have any questions or if you would like to collaborate, please don't hesitate to reach out to me using the email link at the bottom of the page.
+
 
 ## About My Advisor
 
