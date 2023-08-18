@@ -35,4 +35,5 @@ To conduct our experiment, we will start with a pretrained network for object re
 
 ## My Blog
 
-[My Blog](blog.html)
+Please review [my blogs](blog.html) for a comprehensive update on the progress of my research.
+
